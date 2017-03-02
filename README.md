@@ -1,3 +1,3 @@
 # test
-#makedown
+#markdown
 #this is a test project
